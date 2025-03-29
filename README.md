@@ -11,10 +11,9 @@
 - **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/D3D12PhysicsEngine)  
 - **기획 및 설명**: [Notion 링크](https://www.notion.so/0cc33bcad32c433f894a4fecc12b1fb1?pvs=21)
 
+![image](https://github.com/user-attachments/assets/ba98a205-9c74-4e71-9e04-9fa25feac77e)
+
   
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e967d06d-72ca-4307-ac8d-0af8dce8f005/3a4bea97-f5cb-489b-b621-f6b6a45edfb9/image.png)
-
-
 ---
 
 #### 💠 **WebGPU 미니 프로젝트**  
@@ -41,7 +40,7 @@
 - **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/DirectXSandbox)  
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e967d06d-72ca-4307-ac8d-0af8dce8f005/e39c0115-9f97-4f60-b28d-e44a91b43272/image.png)
+![image](https://github.com/user-attachments/assets/46162c59-dbe0-494e-b19e-a983e26bf140)
 
 
 ---
@@ -50,7 +49,8 @@
 - Direct3D11 기반 우주 배경 게임  
 - **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/d3d11Space)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e967d06d-72ca-4307-ac8d-0af8dce8f005/d4ad482e-6256-4f7a-8625-2597750eba71/image.png)
+
+![image](https://github.com/user-attachments/assets/689ce7c1-7b4b-4e91-9455-a21542bf9af7)
 
 
 ---
@@ -66,7 +66,8 @@
 - **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/Soldier-vs-Warrior)
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e967d06d-72ca-4307-ac8d-0af8dce8f005/57825d5a-cb66-45cc-a89c-677275e45371/image.png)
+![image](https://github.com/user-attachments/assets/02be27e5-ea64-414d-a5c2-1449c26698ea)
+
 
 
 ---
