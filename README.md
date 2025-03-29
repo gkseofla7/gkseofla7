@@ -9,7 +9,7 @@
 #### 🎮 **Daerim’s GameEngine** *(진행 중)*  
 - Direct3D 12 기반 게임 엔진  
 - **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/D3D12PhysicsEngine)  
-- **개발 과정 일기**: [Notion 링크](https://www.notion.so/0cc33bcad32c433f894a4fecc12b1fb1?pvs=21)
+- **개발 일기**: [Notion 링크](https://www.notion.so/0cc33bcad32c433f894a4fecc12b1fb1?pvs=21)
 
 ![image](https://github.com/user-attachments/assets/ba98a205-9c74-4e71-9e04-9fa25feac77e)
 
@@ -72,12 +72,7 @@
 
 ---
 
-## 📌 전체 프로젝트 GitHub: [https://github.com/gkseofla7](https://github.com/gkseofla7)
-
----
-
 ### ✅ 활용 기술 스택 요약
 - **그래픽스**: D3D11, D3D12, WebGPU  
 - **엔진 개발**: 자체 엔진 제작, 렌더링 최적화, 멀티스레딩  
 - **네트워크**: UE4 Listen Server, 예측/보정 기술  
-- **툴 및 시스템**: UI 시스템, Notion 문서 정리
