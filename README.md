@@ -9,7 +9,7 @@
 #### 🎮 **Daerim’s GameEngine** *(진행 중)*  
 - Direct3D 12 기반 게임 엔진  
 - **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/D3D12PhysicsEngine)  
-- **개발 일기**: [Notion 링크](https://www.notion.so/0cc33bcad32c433f894a4fecc12b1fb1?pvs=21)
+- **개발 일기**: [Notion 링크](https://daerimustudypage.notion.site/0cc33bcad32c433f894a4fecc12b1fb1)
 
 ![image](https://github.com/user-attachments/assets/ba98a205-9c74-4e71-9e04-9fa25feac77e)
 
@@ -24,7 +24,7 @@
 
 #### 🧵 **D3D12 멀티스레딩 미니 프로젝트**  
 - D3D12 기반, 100개 오브젝트를 멀티스레드로 처리  
-- Microsoft 샘플 기반 코드 수정정
+- Microsoft 샘플 기반 코드 수정
 - **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/D3D12-MultiThreadingMiniProj)  
 - **설명 노션**: [Notion 링크](https://www.notion.so/MultiThreading-35fb7da4522846b2b0fe784a4569e7e0?pvs=21)
 
