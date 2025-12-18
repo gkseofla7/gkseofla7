@@ -2,6 +2,10 @@
 
 ## 🛠️ 그동안 진행한 개인 프로젝트
 
+### 📅 **2025년**
+- Vulkan 기반 렌더러
+- **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/DRVulkanEngine)  
+
 ### 📅 **2024년**
 
 ---
