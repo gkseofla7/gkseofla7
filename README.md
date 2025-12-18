@@ -10,7 +10,7 @@
 
 ---
 
-#### 🎮 **Daerim’s GameEngine** *(진행 중)*  
+#### 🎮 **Daerim’s GameEngine**
 - Direct3D 12 기반 게임 엔진  
 - **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/D3D12PhysicsEngine)  
 - **개발 일기**: [Notion 링크](https://daerimustudypage.notion.site/0cc33bcad32c433f894a4fecc12b1fb1)
