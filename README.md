@@ -5,7 +5,7 @@
 ### 📅 **2025년**
 - Vulkan 기반 렌더러
 - **GitHub**: [🔗 바로가기](https://github.com/gkseofla7/DRVulkanEngine)  
-- **설계 분석**: [Tech Block 링크](https://gkseofla7.tistory.com/11)
+- **설계 분석**: [Tech Blog 링크](https://gkseofla7.tistory.com/11)
 ### 📅 **2024년**
 
 ---
